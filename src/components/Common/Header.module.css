@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.navbar {
+    background-color: #f4acb7;
+    width: 100vw;
+    position: fixed;
+    overflow: hidden;
+    top: 0%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 10vh;
+}
+
+.logoTxt {
+    font-size: 3rem;
+    margin: 0.5rem;
+    font-weight: bold;
+    color: #fcf6bd;
+    margin-left: 2rem;
+}
